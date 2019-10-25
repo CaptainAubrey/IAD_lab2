@@ -1,9 +1,6 @@
 import random
 
 
-import random
-
-
 def field(items, *args):
     assert len(args) > 0
     res = ""
